@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Techy-Savage
+- 👋 Hi, I’m @Ashura
 - 👀 I’m interested in being cracked
 - 🌱 I’m currently learning full stack app dev
 - 💞️ I’m looking to collaborate on nothing <3
